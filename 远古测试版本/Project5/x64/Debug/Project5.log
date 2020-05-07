@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\试试就试试\Project5\Project5\源.cpp(37,37): error C2065: “CV_LOAD_IMAGE_COLOR”: 未声明的标识符
+D:\试试就试试\Project5\Project5\源.cpp(23,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
